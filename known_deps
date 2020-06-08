@@ -1,0 +1,6 @@
+# These were installed using vcpkg on Ubuntu
+
+glew
+glfw3
+imgui[bindings]
+implot
